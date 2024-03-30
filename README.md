@@ -1,4 +1,4 @@
-# ctd-fe3-final Bastian Sandoval
+# ctd-fe3-final Bastian Sandoval Sotomayor
 
 Examen Final de Frontend III
 
