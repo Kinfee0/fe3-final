@@ -1,14 +1,13 @@
-
-import Footer from "./Components/Footer";
-import Navbar from "./Components/Navbar";
-
+import { useGlobalContext } from "./Components/utils/global.context";
+import Layout from "./Components/Layout";
 
 function App() {
+  const { state } = useGlobalContext();
+
   return (
-      <div className="App">
-          <Navbar/>
-          <Footer/>
-      </div>
+    <div className={`App ${state.theme} `}>
+      <Layout />
+    </div>
   );
 }
 
