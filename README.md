@@ -1,4 +1,4 @@
-# ctd-fe3-final
+# ctd-fe3-final Bastian Sandoval
 
 Examen Final de Frontend III
 
